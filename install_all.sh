@@ -33,3 +33,7 @@ sudo apt-get install -y texmaker
 sudo apt-add-repository ppa:blahota/texstudio
 sudo apt-get update
 sudo apt-get install -y texstudio
+sudo apt-get install wx-common -y
+sudo apt-get install -y wx3.0-headers libwxbase3.0-0v5 wx3.0-i18n  python-wxgtk3.0-dev libwxgtk3.0-dev  libwxsmithlib-dev 
+
+
